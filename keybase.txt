@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sitzmar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sitzmar.com
+  * I am sitzmar (https://keybase.io/sitzmar) on keybase.
+  * I have a public key ASDbpBwLJiISL3fEpfnjVO5PF50P1k9ZynYV1fywLb1_SQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c3e8827f3a1d2dc719e681e9ec28b377f576493a72d2fbe282427afb999b51fc0a",
+      "host": "keybase.io",
+      "kid": "0120dba41c0b2622122f77c4a5f9e354ee4f179d0fd64f59ca7615d5fcb02dbd7f490a",
+      "uid": "884d729c429668f83bdf44270fa14d19",
+      "username": "sitzmar"
+    },
+    "merkle_root": {
+      "ctime": 1539029064,
+      "hash": "36af5945e86f3ad136f58aee03cc1410b074816d5a4b59e15576758381d53628d2d306da0be8fd87b2f88769fa92c185de88861501e6deb65335f8884881cb12",
+      "hash_meta": "5582a4ee809f7ba78480b2db7d8800b3dd7edba925cdb5f6d03d87b839674729",
+      "seqno": 3764616
+    },
+    "service": {
+      "entropy": "yHtu+ZJFh/8tqag8twi8lkbf",
+      "hostname": "sitzmar.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539029077,
+  "expire_in": 504576000,
+  "prev": "1d8a6fdc9786233574b2b8513736790be527d4a23a44afcc3bc2ddb2524816e4",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg26QcCyYiEi93xKX541TuTxedD9ZPWcp2FdX8sC29f0kKp3BheWxvYWTESpcCC8QgHYpv3JeGIzV0srhRNzZ5C+Un1KI6RK/MO8LdslJIFuTEIOqTF1RNwap+07AseSmfEuVJIV9bTTb+0+a2Zga1+rakAgHCo3NpZ8RA/71DFmDcXl8jNIzE9g1Di/VvXhTBiwe6WTtTN/x6f58voN2PkwXfIOYGU8cjABkCwGNcBGOS/1xcnlMf7bsTBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBMKi6zO0Fkt4WWDn36Q9/O96aStH5tAcEBVIFfIvqfJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sitzmar
+
+==================================================================
